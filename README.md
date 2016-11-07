@@ -14,3 +14,14 @@ https://desktop.github.com/
 sudo apt-get install git
 ```
 ---
+## Installing Python 2.7.12
+
+### OS X
+Pre-installed
+---
+### Windows
+https://www.python.org/downloads
+---
+### Ubuntu
+Pre-installed
+---
