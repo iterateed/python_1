@@ -2,10 +2,17 @@
 
 ## Installing a Github Client
 
-OS X
+### OS X
 ---
 https://desktop.github.com/
 
-Windows
+### Windows
 ---
 https://desktop.github.com/
+
+### Ubuntu
+---
+
+```
+sudo apt-get install git
+```
